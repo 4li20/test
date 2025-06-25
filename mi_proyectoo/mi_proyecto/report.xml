@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="RegistroIngreso2Test" file="C:\xampp\htdocs\mi_proyecto\tests\RegistroIngreso2Test.php" tests="3" assertions="3" errors="0" failures="0" skipped="0" time="0.004691">
+    <testcase name="testCalcularTotal" file="C:\xampp\htdocs\mi_proyecto\tests\RegistroIngreso2Test.php" line="8" class="RegistroIngreso2Test" classname="RegistroIngreso2Test" assertions="1" time="0.003723"/>
+    <testcase name="testValidarSesionAdmin" file="C:\xampp\htdocs\mi_proyecto\tests\RegistroIngreso2Test.php" line="17" class="RegistroIngreso2Test" classname="RegistroIngreso2Test" assertions="1" time="0.000607"/>
+    <testcase name="testValidarSesionInvalida" file="C:\xampp\htdocs\mi_proyecto\tests\RegistroIngreso2Test.php" line="25" class="RegistroIngreso2Test" classname="RegistroIngreso2Test" assertions="1" time="0.000361"/>
+  </testsuite>
+</testsuites>
