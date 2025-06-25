@@ -50,7 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 
         .login-container {
-            background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente para el formulario */
+            background-color: rgba(101, 8, 223, 0.5); /* Fondo semitransparente para el formulario */
             padding: 30px;
             border-radius: 10px;
             text-align: center;
