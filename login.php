@@ -50,7 +50,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 
         .login-container {
-            background-color: rgba(101, 8, 223, 0.5); /* Fondo semitransparente para el formulario */
+            background-color: rgba(255, 250, 250, 0.27); /* Fondo semitransparente para el formulario */
             padding: 30px;
             border-radius: 10px;
             text-align: center;
@@ -62,7 +62,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                     font-size: 24px;
                     font-weight: bold;
                     margin-bottom: 10px;
-                    color: #dcdcdc;
+                    color:rgb(0, 0, 0);
                 }
         .login-container img {
                     width: 90px;

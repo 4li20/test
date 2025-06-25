@@ -38,7 +38,7 @@ $mensajeGlobal = $resultMensaje->fetch_assoc()['mensaje_admin'];
 
         .sidebar {
             width: 250px;
-            background-color:rgba(173, 89, 252, 0.93);
+            background-color:rgba(255, 0, 0, 0.93);
             color: #fff;
             padding: 20px;
             height: 100vh;
