@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phpunit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="https://schema.phpunit.de/10.0/phpunit.xsd"
+         bootstrap="vendor/autoload.php"
+         colors="true">
+
+  <testsuites>
+    <testsuite name="Admin Tests">
+      <directory suffix="functionsTest.php">tests</directory>
+    </testsuite>
+    <testsuite name="Function Tests">
+      <file>tests/functionsTest.php</file>
+    </testsuite>
+  </testsuites>
+
+  <php>
+    <!-- Variables globales para tests -->
+    <server name="APP_ENV" value="testing"/>
+    <ini name="memory_limit" value="512M"/>
+  </php>
+
+</phpunit>

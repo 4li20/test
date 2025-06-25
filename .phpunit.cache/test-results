@@ -1,0 +1,1 @@
+{"version":1,"defects":{"ExportarExcelTest::testGenerarExcelConDatosSimulados":8},"times":{"ExportarExcelTest::testGenerarExcelConDatosSimulados":0.064,"RegistroIngreso2Test::testCalcularTotal":0.004,"RegistroIngreso2Test::testValidarSesionAdmin":0.001,"RegistroIngreso2Test::testValidarSesionInvalida":0}}
